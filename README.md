@@ -3,7 +3,7 @@
 build an event management system <br>
 
 TRAILHEAD PROFILE PUBLIC URL <br>
-<li>Team Lead: 		  [click here](https://trailblazer.me/id/jevpr)<li> <br>
+Team Lead: 		[click here](https://trailblazer.me/id/jevpr) <br>
 Team Member 1:	[click here](https://trailblazer.me/id/gokik2) <br>
 Team Member 2: 	[click here](https://trailblazer.me/id/janpa8) <br>
 Team Member 3: 	[click here](https://trailblazer.me/id/sdhivyapraba) <br>
